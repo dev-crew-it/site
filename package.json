@@ -35,7 +35,6 @@
   "type": "module",
   "module": "index.ts",
   "dependencies": {
-    "chalk": "^5.3.0",
     "xterm": "^5.3.0",
     "xterm-addon-fit": "^0.8.0"
   }
